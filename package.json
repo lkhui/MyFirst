@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lkhui/MyFirst/issues"
   },
-  "homepage": "https://github.com/lkhui/MyFirst#readme"
+  "homepage": "https://github.com/lkhui/MyFirst#readme",
+  "dependencies": {
+    
+  }
 }
