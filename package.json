@@ -19,7 +19,7 @@
   "dependencies": {
     "jquery": "3.2.1",
     "underscore":"1.8.3",
-    "require": "2.4.20"
+    "require": "2.3.3"
     
   }
 }
