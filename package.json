@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lkhui/MyFirst#readme",
   "dependencies": {
-    "jquery": "3.2.1"
+    "jquery": "3.2.1",
+    "underscore": "1.0.0"
   }
 }
